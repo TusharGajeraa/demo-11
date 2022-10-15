@@ -1,0 +1,97 @@
+* .css51{
+  margin-top: 10px;
+  width: 100%;
+}
+
+.css55{
+    display: flex;
+    width: 100%;
+    padding: 29px 0px 22px 0px;
+    justify-content: right;
+}
+
+.css56{
+   background-color: rgb(116, 71, 232);
+   color: white;
+   line-height: 2;
+   border-radius: 12px;
+   font-weight: bold;
+   min-width: 50px;
+   margin-right: 20px;
+  
+}
+
+.css52{
+  text-align: start;
+  padding-inline-start: 15px;
+  padding-inline-end: 6px;
+  line-height: 40px;
+  border-bottom: 1px solid rgb(243, 243, 243);
+}
+
+.css53{
+  text-align: start;
+  padding-inline-start: 15px;
+  padding-inline-end: 6px;
+  line-height: 40px;
+  border-bottom: 1px solid rgb(243, 243, 243);
+}
+
+.css5352 {
+  white-space: nowrap;
+  vertical-align: middle;
+  text-transform: capitalize;
+  font-size: 14px;
+  border-radius: 8px;
+  background: green;
+  padding: 3px 10px;
+  cursor: pointer;
+  color: white;
+}
+
+
+.css5353 {
+  white-space: nowrap;
+  font-size: 14px;
+  border-radius: 8px;
+  background: #7447e8;
+  padding: 3px 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.css5355{
+  font-size: 14px;
+  border-radius: 8px;
+  background: black;
+  padding: 3px 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.css5354{
+  font-size: 14px;
+  border-radius: 8px;
+  background: black;
+  padding: 3px 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.paginationcss a{
+  color: black;
+  float: left;
+  padding: 8px 16px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+
+ .paginationcss a:hover:not(.active) {
+  background-color: #ddd;
+}
+
+/* .paginationcss a.active {
+  /* background-color: dodgerblue; */
+  /* color: white; */
+
+

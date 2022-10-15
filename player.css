@@ -1,0 +1,75 @@
+* .css9090 {
+  display: flex;
+  justify-content: right;
+  margin-top: 60px; 
+  border-radius: 20px;
+  height: 30px;
+  margin-right: 50px;
+}
+
+.css9019{
+  display: flex;
+  margin-inline-end: -27.6px;
+}
+
+
+.css9091{
+  float: left;
+  background: rgb(234, 239, 241);
+  border: 1px solid black;
+  border-left: none;
+  cursor: pointer;
+}
+
+.css12 {
+  margin-top: 20px;
+  margin-left: 5px;
+}
+
+.css23 {
+  width: 5%;
+  text-align: start;
+  padding-inline-start: 15px;
+  padding-inline-end: 6px;
+  line-height: 40px;
+  border-bottom: 1px solid rgb(243, 243, 243);
+}
+
+
+
+.css34 {
+  text-align: start;
+  padding-inline-start: 15px;
+  padding-inline-end: 6px;
+  line-height: 40px;
+  border-bottom: 1px solid rgb(243, 243, 243);
+}
+
+.css1010 {
+  white-space: nowrap;
+  font-size: 14px;
+  border-radius: 8px;
+  background: #7447e8;
+  padding: 3px 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.css0101 {
+  white-space: nowrap;
+  vertical-align: middle;
+  text-transform: capitalize;
+  font-size: 14px;
+  border-radius: 8px;
+  background: black;
+  padding: 3px 10px;
+  cursor: pointer;
+  color: white;
+}
+
+.pagination{
+  display: flex;
+  justify-content: right;
+  margin-top: 20px;
+  padding-right: 200px;
+}

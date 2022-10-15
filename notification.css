@@ -1,0 +1,37 @@
+.css5656 {
+    width: 100%;
+    position: relative;
+}
+
+.css5757{
+    width: 80%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    min-height: 20px;
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    margin-top: 24px;
+    margin-left: 30px;
+}
+
+.css5858{
+    width: 80%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    min-height: 50px;
+    border-radius: 10px;
+    border: 1px solid lightgrey;
+    margin-top: 24px;
+    margin-left: 30px;
+}
+
+.css5959{
+  background-color: rgb(116, 71, 232);
+  color: white;
+  margin-left: 30px;
+  border: 1px solid lightgrey;
+  margin-top: 24px;
+  border-radius: 12px;
+  line-height: 30px;
+  min-width: 60px;
+}

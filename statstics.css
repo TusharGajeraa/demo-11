@@ -1,0 +1,170 @@
+/* .css8080 {
+  display: flex;
+  flex-direction: column;
+  padding-top: 10px;
+  width: 100%;
+  height: 100%;
+} */
+
+.css8181 {
+  padding: 22px;
+  /* display: flex; */
+  flex-direction: column;
+  width: 80%;
+  position: relative;
+  min-width: 0px;
+  word-wrap: break-word;
+  background: white;
+}
+
+.css8282 {
+  display: flex;
+  width: 20%;
+}
+
+.css8383 {
+  font-weight: bold;
+  font-size: 20px;
+  position: relative;
+}
+
+.css8484 {
+  min-height: 400px;
+}
+
+.css8585 {
+  width: 100%;
+  height: 20%;
+}
+
+.css8686 {
+  background: transparent;
+}
+
+.css8787 {
+  position: absolute;
+  left: auto;
+  top: 40px;
+  right: 5px;
+  flex-direction: column;
+}
+
+.css8888 {
+  margin: 2px 5px;
+}
+
+.css8989 {
+  background: rgb(0, 143, 251) !important;
+  margin: -1px -0px;
+  color: rgb(0, 143, 251);
+  height: 12px;
+  width: 12px;
+  left: 0px;
+  top: 0px;
+  border-width: 0px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 3px;
+  border-style: solid;
+}
+
+.css90901 {
+  color: rgb(55, 61, 63);
+  margin: -16px -1px;
+  font-size: 12px;
+  font-weight: 400;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.css9191 {
+  margin: 2px 5px;
+}
+
+.css9292 {
+  background: rgb(0, 227, 150) !important;
+  color: rgb(0, 227, 150);
+  height: 12px;
+  width: 12px;
+  left: 0px;
+  top: 0px;
+  border-width: 0px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 3px;
+  border-style: solid;
+}
+
+.css9393 {
+  color: rgb(55, 61, 63);
+  font-size: 12px;
+  font-weight: 400;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.css9494 {
+  margin: 2px 5px;
+}
+
+.css9595 {
+  background: rgb(254, 176, 25) !important;
+  color: rgb(254, 176, 25);
+  height: 12px;
+  width: 12px;
+  left: 0px;
+  top: 0px;
+  border-width: 0px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 3px;
+  border-style: solid;
+}
+
+.css9696 {
+  color: rgb(55, 61, 63);
+  font-size: 12px;
+  font-weight: 400;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.css9797 {
+  margin: 2px 5px;
+}
+
+.css9898 {
+  background: rgb(255, 69, 96) !important;
+  color: #718096;
+  height: 12px;
+  width: 12px;
+  left: 0px;
+  top: 0px;
+  border-width: 0px;
+  border-color: rgb(255, 255, 255);
+  border-radius: 2px;
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  margin-right: 3px;
+  border-style: solid;
+}
+
+.css9999 {
+  color: rgb(55, 61, 63);
+  font-size: 12px;
+  font-weight: 400;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.css100100 {
+  position: relative;
+  width: 50%;
+  height: 50%;
+}
